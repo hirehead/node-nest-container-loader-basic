@@ -1,24 +1,24 @@
 {
-  "name": "nest-container-registrator-basic",
-  "version": "1.0.0",
-  "description": "nodejs basic implementation of the nest-container-registrator",
+  "name": "nest-container-loader-basic",
+  "version": "0.0.0",
+  "description": "nodejs basic implementation of the nest-container-loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hirehead/node-nest-container-registrator-basic.git"
+    "url": "git://github.com/hirehead/node-nest-container-loader-basic.git"
   },
   "keywords": [
-    "nest-container-registrator"
+    "nest-container-loader"
   ],
   "author": "hirehead",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/hirehead/node-nest-container-registrator-basic/issues"
+    "url": "https://github.com/hirehead/node-nest-container-loader-basic/issues"
   },
-  "homepage": "https://github.com/hirehead/node-nest-container-registrator-basic",
+  "homepage": "https://github.com/hirehead/node-nest-container-loader-basic",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-tsd": "~0.1.0"
