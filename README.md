@@ -1,4 +1,4 @@
-node-nest-container-loader-basic
-================================
+node-nest-container-registrator-basic
+=====================================
 
-nodesj basic implementation of the nest-container-loader
+nodejs basic implementation of the nest-container-registrator

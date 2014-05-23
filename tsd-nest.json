@@ -1,0 +1,24 @@
+{
+    "version": "v4",
+    "repo": "hirehead/nest-tsd",
+    "ref": "master",
+    "path": "typings",
+    "bundle": "typings/tsd.d.ts",
+    "installed": {
+        "nest-async/nest-async.d.ts": {
+            "commit": "0194df94b1ea14cec09dddb4d83cc7853451746c"
+        },
+        "nest-container/nest-container.d.ts": {
+            "commit": "0194df94b1ea14cec09dddb4d83cc7853451746c"
+        },
+        "nest/nest.d.ts": {
+            "commit": "0194df94b1ea14cec09dddb4d83cc7853451746c"
+        },
+        "nest-container-registrator/nest-container-registrator.d.ts": {
+            "commit": "0194df94b1ea14cec09dddb4d83cc7853451746c"
+        },
+        "nest-container-loader/nest-container-loader.d.ts": {
+            "commit": "0194df94b1ea14cec09dddb4d83cc7853451746c"
+        }
+    }
+}
